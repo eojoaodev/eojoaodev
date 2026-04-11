@@ -45,11 +45,13 @@ Olá! Sou **João**, desenvolvedor Java com **9+ anos de experiência** em backe
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HikariCP](https://img.shields.io/badge/HikariCP-00C7B7?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Frontend & Others**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,7 +84,7 @@ Olá! Sou **João**, desenvolvedor Java com **9+ anos de experiência** em backe
 
 **🏢 ServidoresHyel** — *Java Developer & Founder* `2018 – 2026`
 > Fundação e liderança técnica da empresa. Desenvolvimento de features, manutenção de sistemas legados, integração de bancos de dados e infraestrutura de servidores de alta disponibilidade.
-> `Java 8/11/21` `MySQL` `PaperSpigot` `Velocity` `Infrastructure`
+> `Java 8/11/21` `MySQL` `HikariCP` `PaperSpigot` `Velocity` `Infrastructure`
 
 **🛡️ RedeGrounded** — *Technical Support Engineer* `2025`
 > Gerenciamento e coordenação do projeto, suporte técnico, resolução de bugs e manutenção dos sistemas.
