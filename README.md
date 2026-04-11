@@ -84,10 +84,6 @@ Olá! Sou **João**, desenvolvedor Java com **9+ anos de experiência** em backe
 > Fundação e liderança técnica da empresa. Desenvolvimento de features, manutenção de sistemas legados, integração de bancos de dados e infraestrutura de servidores de alta disponibilidade.
 > `Java 8/11/21` `MySQL` `PaperSpigot` `Velocity` `Infrastructure`
 
-**⚡ RedePlus** — *Java Developer & Tech Lead* `2026`
-> Desenvolvimento e liderança técnica, criação de APIs para otimização de performance, integração MySQL/SQL e melhoria de infraestrutura garantindo escalabilidade.
-> `Java 21` `MySQL` `PaperSpigot` `Velocity`
-
 **🛡️ RedeGrounded** — *Technical Support Engineer* `2025`
 > Gerenciamento e coordenação do projeto, suporte técnico, resolução de bugs e manutenção dos sistemas.
 > `Java 11` `Velocity` `PandaSpigot`
@@ -111,7 +107,7 @@ Olá! Sou **João**, desenvolvedor Java com **9+ anos de experiência** em backe
 ### 📬 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.redehyel.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544998046481)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55449000000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eojoaodev)
 
 *"Sempre em busca de novos desafios e aprendizado constante."*
