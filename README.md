@@ -1,135 +1,128 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=190&section=header&text=JOÃO%20VICTOR&fontColor=F0F6FC&fontSize=38&fontAlignY=35&desc=BACKEND%20ENGINEER%20•%20JAVA%20DEVELOPER&descAlignY=55&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090B,55:101319,100:08090B&height=10" />
 
 <div align="center">
 
-### Construindo sistemas robustos, escaláveis e feitos para durar.
+```text
+JOÃO VICTOR  /  BACKEND ENGINEER  /  JAVA DEVELOPER
+```
 
-`Java Developer` · `Backend Engineer` · `CEO @ ServidoresHyel`
+# Construindo sistemas que continuam funcionando quando importa.
 
-📍 Maringá, Paraná — Brasil
+Backend, infraestrutura e produtos digitais para comunidades e operações reais.
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=50&lines=Java+Backend+Developer+%E2%98%95;9%2B+anos+construindo+sistemas;Backend%2C+Web+e+Infraestrutura;33%2B+servidores+gerenciados;1.000%2B+players+simult%C3%A2neos;Transformando+caf%C3%A9+em+c%C3%B3digo+%F0%9F%9A%80"
-  alt="Typing SVG"
-/>
+`Java` · `TypeScript` · `Cloudflare` · `Supabase` · `Minecraft Infrastructure`
+
+[![Obitouchiha Labs](https://img.shields.io/badge/OBITOUCHIHA_LABS-0D1117?style=for-the-badge&logoColor=white)](https://obitouchiha.cloud/)
+[![GitHub Organization](https://img.shields.io/badge/GITHUB_ORGANIZATION-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obitouchihalabs)
+[![Discord](https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7aW4AYPR7Y)
 
 </div>
 
 ---
 
-### 01 · Sobre mim
+## `~/about`
 
-Sou dev Java há mais de **9 anos**, focado em backend, infraestrutura e sistemas de alta disponibilidade.
+Sou desenvolvedor focado em **backend, sistemas Java, infraestrutura e produtos digitais**. Trabalho transformando ideias em plataformas completas: da interface e banco de dados até licenciamento, automação e operação.
 
-Fundei e atualmente lidero a **ServidoresHyel**, onde já trabalhei com uma infraestrutura de **33+ servidores** e mais de **1.000 players simultâneos** — além de já ter escrito mais de **1 milhão de linhas de código** em produção.
+Atualmente lidero projetos na **Obitouchiha Labs** e na **ServidoresHyel**, com experiência em redes Minecraft, sistemas de alta disponibilidade e produtos para comunidades online.
 
-Também estou cursando **Jogos Digitais** e **Engenharia de Software**, além de participar do programa de **Robótica UEM/CNPq (2025–2026)**.
-
-> Sempre em busca de novos desafios. Se tem um bug difícil, um backend para construir ou uma infraestrutura para escalar, chama.
+```text
+location   Maringá, Paraná — Brasil
+focus      Java backend · Web platforms · Infrastructure
+building   Obitouchiha Labs / Licensing / Minecraft systems
+```
 
 ---
 
-### 02 · Tecnologias
+## `~/featured-projects`
+
+### 01 — Obitouchiha Labs
+
+**Product Studio & Client Hub**
+
+Ecossistema para vender plugins, gerenciar clientes, licenças, servidores, pedidos, suporte e atualizações em uma plataforma própria.
+
+`React` `TypeScript` `Cloudflare Workers` `Supabase` `PostgreSQL`
+
+- Área do cliente, painel administrativo e suporte por chamados
+- Licenciamento conectado a IP, porta e servidor autorizado
+- Controle de pedidos, cupons, produtos, versões e relatórios
+- Autenticação, 2FA, auditoria e controle de permissões
+
+[Abrir a Labs →](https://obitouchiha.cloud/) · [Organização no GitHub →](https://github.com/obitouchihalabs)
+
+### 02 — ObitouchihaLabsCore
+
+**Minecraft Licensing Core**
+
+Core Java que valida a licença no site antes de liberar os módulos autorizados para cada servidor Minecraft.
+
+`Java 8+` `Maven` `Spigot API` `Paper` `ProGuard`
+
+- Verificação de licença, IP, porta e produtos vinculados
+- Validação periódica com tolerância controlada para indisponibilidade
+- Idiomas configuráveis, avisos de atualização e logs de operação
+- Build protegido por ofuscação e lógica crítica mantida no servidor
+
+---
+
+## `~/stack`
 
 <div align="center">
 
-#### Linguagens
-
-![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=white)
-
-#### Backend & Database
-
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=white)
-![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=for-the-badge&logoColor=white)
-
-#### Frontend & Web
-
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=white)
-
-#### Servidores & Infraestrutura
-
-![Velocity](https://img.shields.io/badge/Velocity-161B22?style=for-the-badge)
-![PaperSpigot](https://img.shields.io/badge/PaperSpigot-161B22?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-0D1117?style=for-the-badge&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-0D1117?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-### 03 · Impacto em números
+## `~/current-status`
+
+```text
+[active]  Evoluindo a Obitouchiha Labs
+[active]  Desenvolvendo sistemas Java e plugins Minecraft
+[active]  Criando uma plataforma própria de licenciamento
+[study]   Arquitetura, escalabilidade e Engenharia de Software
+[study]   Jogos Digitais e Robótica
+```
+
+---
+
+## `~/github-metrics`
+
+<!-- Troque ejoaodev se o seu usuário do GitHub for outro. -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eojoaodev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=eojoaodev&hide_border=true&background=0D1117&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E&stroke=0D1117&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub streak" />
+</div>
 
 <div align="center">
-
-| 🖥️ Servidores | 👾 Players simultâneos | 📅 Experiência | 📝 Linhas de código |
-|:--------------:|:----------------------:|:--------------:|:-------------------:|
-| **33+** | **1.000+** | **9+ anos** | **1M+** |
-
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=eojoaodev&bg_color=0D1117&color=F0F6FC&line=8B949E&point=F0F6FC&area=true&area_color=161B22&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
 
-### 04 · Experiência
-
-#### 🏢 ServidoresHyel
-
-**Founder & Java Developer** · `2018 – atual`
-
-Fundação e liderança técnica da empresa. Desenvolvimento de novas features, manutenção de sistemas legados, integração de bancos de dados e gerenciamento de infraestrutura de alta disponibilidade.
-
-`Java` `MySQL` `HikariCP` `PaperSpigot` `Velocity`
-
-#### 🛡️ RedeGrounded
-
-**Technical Support Engineer** · `2025`
-
-Coordenação de projeto, suporte técnico e resolução de bugs em sistemas utilizados em produção.
-
-`Java 11` `Velocity` `PandaSpigot`
-
----
-
-### 05 · Formação
-
-- 🎮 **Técnico em Jogos Digitais — UEM** *(em andamento)*
-- 💻 **Engenharia de Software** *(em formação)*
-- 🤖 **Programa de Robótica — UEM / CNPq** · `2025–2026`
-
----
-
-### 06 · Foco atual
-
-- Trabalhando na evolução da **ServidoresHyel**
-- Desenvolvendo sistemas com **Java e TypeScript**
-- Criando aplicações com **React e Next.js**
-- Estudando arquitetura, escalabilidade e Engenharia de Software
-- Explorando desenvolvimento de jogos e robótica
-- Sempre procurando algum projeto complicado para simplificar
-
----
-
-### 07 · Contato
+## `~/contact`
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=white)](https://discord.redehyel.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55449000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eojoaodev)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7aW4AYPR7Y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eojoaodev)
+[![Website](https://img.shields.io/badge/Obitouchiha_Labs-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://obitouchiha.cloud/)
 
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Aberto+a+oportunidades+remotas+%F0%9F%8C%8E;Dispon%C3%ADvel+para+projetos+e+colabora%C3%A7%C3%B5es;Vamos+construir+algo+incr%C3%ADvel+juntos!"
-  alt="Contato"
-/>
+`Aberto para projetos, produtos e colaborações técnicas.`
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090B,55:101319,100:08090B&height=10" />
