@@ -33,17 +33,24 @@ Também estou cursando **Jogos Digitais** e **Engenharia de Software**, além de
 
 <div align="center">
 
-#### Backend & Database
+#### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### Backend & Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HikariCP](https://img.shields.io/badge/HikariCP-Connection_Pool-00C7B7?style=for-the-badge)
 
 #### Frontend & Web
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
@@ -52,7 +59,6 @@ Também estou cursando **Jogos Digitais** e **Engenharia de Software**, além de
 
 ![Velocity](https://img.shields.io/badge/Velocity-Proxy-1199FA?style=for-the-badge)
 ![PaperSpigot](https://img.shields.io/badge/PaperSpigot-Server-222222?style=for-the-badge)
-![HikariCP](https://img.shields.io/badge/HikariCP-Connection_Pool-00C7B7?style=for-the-badge)
 
 </div>
 
@@ -127,3 +133,4 @@ Coordenação de projeto, suporte técnico e resolução de bugs em sistemas uti
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=120&section=footer&animation=fadeIn" />
+
