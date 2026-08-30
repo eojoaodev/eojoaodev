@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0077B5&height=140&section=header&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=190&section=header&text=JOÃO%20VICTOR&fontColor=F0F6FC&fontSize=38&fontAlignY=35&desc=BACKEND%20ENGINEER%20•%20JAVA%20DEVELOPER&descAlignY=55&descSize=14&animation=fadeIn" />
 
 <div align="center">
 
-# 👋 E aí, eu sou o João Victor
+### Construindo sistemas robustos, escaláveis e feitos para durar.
 
-### Java Developer | Backend Engineer | CEO @ ServidoresHyel
+`Java Developer` · `Backend Engineer` · `CEO @ ServidoresHyel`
 
 📍 Maringá, Paraná — Brasil
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=50&lines=Java+Backend+Developer+%E2%98%95;9%2B+anos+construindo+sistemas;Backend%2C+Web+e+Infraestrutura;33%2B+servidores+gerenciados;1.000%2B+players+simult%C3%A2neos;Transformando+caf%C3%A9+em+c%C3%B3digo+%F0%9F%9A%80"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=50&lines=Java+Backend+Developer+%E2%98%95;9%2B+anos+construindo+sistemas;Backend%2C+Web+e+Infraestrutura;33%2B+servidores+gerenciados;1.000%2B+players+simult%C3%A2neos;Transformando+caf%C3%A9+em+c%C3%B3digo+%F0%9F%9A%80"
   alt="Typing SVG"
 />
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Sobre mim
+### 01 · Sobre mim
 
 Sou dev Java há mais de **9 anos**, focado em backend, infraestrutura e sistemas de alta disponibilidade.
 
@@ -29,42 +29,42 @@ Também estou cursando **Jogos Digitais** e **Engenharia de Software**, além de
 
 ---
 
-### ⚙️ Tech Stack
+### 02 · Tecnologias
 
 <div align="center">
 
 #### Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=white)
 
 #### Backend & Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HikariCP](https://img.shields.io/badge/HikariCP-Connection_Pool-00C7B7?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=white)
+![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=for-the-badge&logoColor=white)
 
 #### Frontend & Web
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=white)
 
 #### Servidores & Infraestrutura
 
-![Velocity](https://img.shields.io/badge/Velocity-Proxy-1199FA?style=for-the-badge)
-![PaperSpigot](https://img.shields.io/badge/PaperSpigot-Server-222222?style=for-the-badge)
+![Velocity](https://img.shields.io/badge/Velocity-161B22?style=for-the-badge)
+![PaperSpigot](https://img.shields.io/badge/PaperSpigot-161B22?style=for-the-badge)
 
 </div>
 
 ---
 
-### 📊 Em números
+### 03 · Impacto em números
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Também estou cursando **Jogos Digitais** e **Engenharia de Software**, além de
 
 ---
 
-### 💼 Experiência
+### 04 · Experiência
 
 #### 🏢 ServidoresHyel
 
@@ -96,7 +96,7 @@ Coordenação de projeto, suporte técnico e resolução de bugs em sistemas uti
 
 ---
 
-### 🎓 Formação
+### 05 · Formação
 
 - 🎮 **Técnico em Jogos Digitais — UEM** *(em andamento)*
 - 💻 **Engenharia de Software** *(em formação)*
@@ -104,7 +104,7 @@ Coordenação de projeto, suporte técnico e resolução de bugs em sistemas uti
 
 ---
 
-### 🚀 Atualmente
+### 06 · Foco atual
 
 - Trabalhando na evolução da **ServidoresHyel**
 - Desenvolvendo sistemas com **Java e TypeScript**
@@ -115,22 +115,21 @@ Coordenação de projeto, suporte técnico e resolução de bugs em sistemas uti
 
 ---
 
-### 📬 Bora trocar uma ideia?
+### 07 · Contato
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.redehyel.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55449000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eojoaodev)
+[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=white)](https://discord.redehyel.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55449000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eojoaodev)
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Aberto+a+oportunidades+remotas+%F0%9F%8C%8E;Dispon%C3%ADvel+para+projetos+e+colabora%C3%A7%C3%B5es;Vamos+construir+algo+incr%C3%ADvel+juntos!"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Aberto+a+oportunidades+remotas+%F0%9F%8C%8E;Dispon%C3%ADvel+para+projetos+e+colabora%C3%A7%C3%B5es;Vamos+construir+algo+incr%C3%ADvel+juntos!"
   alt="Contato"
 />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=120&section=footer&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=120&section=footer" />
